@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/TestAppBackendless/static/css/main.05de4aa3.css",
+    "main.js": "/TestAppBackendless/static/js/main.728adfd8.js",
+    "static/js/443.5962ef91.chunk.js": "/TestAppBackendless/static/js/443.5962ef91.chunk.js",
+    "static/js/398.efea58b5.chunk.js": "/TestAppBackendless/static/js/398.efea58b5.chunk.js",
+    "static/js/887.bb3b2efa.chunk.js": "/TestAppBackendless/static/js/887.bb3b2efa.chunk.js",
+    "static/js/569.e67b0bc5.chunk.js": "/TestAppBackendless/static/js/569.e67b0bc5.chunk.js",
+    "static/js/303.60ed2773.chunk.js": "/TestAppBackendless/static/js/303.60ed2773.chunk.js",
+    "static/js/786.faac2143.chunk.js": "/TestAppBackendless/static/js/786.faac2143.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TestAppBackendless/static/js/787.28cb0dcd.chunk.js",
+    "static/js/930.e5ab4738.chunk.js": "/TestAppBackendless/static/js/930.e5ab4738.chunk.js",
+    "static/js/89.21e14fd8.chunk.js": "/TestAppBackendless/static/js/89.21e14fd8.chunk.js",
+    "static/js/607.baf47e1c.chunk.js": "/TestAppBackendless/static/js/607.baf47e1c.chunk.js",
+    "static/media/index.cjs": "/TestAppBackendless/static/media/index.87283f34b94ab8669cb4.cjs",
+    "index.html": "/TestAppBackendless/index.html",
+    "main.05de4aa3.css.map": "/TestAppBackendless/static/css/main.05de4aa3.css.map",
+    "main.728adfd8.js.map": "/TestAppBackendless/static/js/main.728adfd8.js.map",
+    "443.5962ef91.chunk.js.map": "/TestAppBackendless/static/js/443.5962ef91.chunk.js.map",
+    "569.e67b0bc5.chunk.js.map": "/TestAppBackendless/static/js/569.e67b0bc5.chunk.js.map",
+    "303.60ed2773.chunk.js.map": "/TestAppBackendless/static/js/303.60ed2773.chunk.js.map",
+    "786.faac2143.chunk.js.map": "/TestAppBackendless/static/js/786.faac2143.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TestAppBackendless/static/js/787.28cb0dcd.chunk.js.map",
+    "930.e5ab4738.chunk.js.map": "/TestAppBackendless/static/js/930.e5ab4738.chunk.js.map",
+    "89.21e14fd8.chunk.js.map": "/TestAppBackendless/static/js/89.21e14fd8.chunk.js.map",
+    "607.baf47e1c.chunk.js.map": "/TestAppBackendless/static/js/607.baf47e1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05de4aa3.css",
+    "static/js/main.728adfd8.js"
+  ]
+}
